@@ -1,10 +1,10 @@
 # Spark_project
 
-In NPL.py, NLP1.py and calculate_answer.py : 
+## In NPL.py, NLP1.py and calculate_answer.py : 
 
 We use Bert to embed a question so that it can respond to us with the appropriate restaurant. Eg : "give me a good italian restaurant"
 
-In Bonus.py:
+## In Bonus.py:
 
 We plot the restaurant on a map using streamlit    
 
