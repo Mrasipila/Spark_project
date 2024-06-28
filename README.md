@@ -13,7 +13,7 @@ the bert response :
 
 ## In Bonus.py:
 
-We plot the restaurant on a map using streamlit    
+We plot the restaurants on a map using streamlit    
 
 ![image](https://github.com/Mrasipila/Spark_project/assets/30113273/48ddea4f-f5bf-4601-80c7-46691578208b)
 
