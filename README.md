@@ -2,7 +2,7 @@
 
 ## In NPL.py, NLP1.py and calculate_answer.py : 
 
-We use Bert to embed our restaurant and a question so that it can respond to us with the appropriate restaurant. Eg : "give me a good italian restaurant"
+We use Bert to embed our restaurants and a question so that it can respond to us with the appropriate restaurant. Eg : "give me a good italian restaurant"
 
 embedding of the restaurants :  
 ![image](https://github.com/Mrasipila/Spark_project/assets/30113273/89ba2dd7-af6f-41df-83e7-0c124012369b)
